@@ -15,7 +15,7 @@ import {
 
 const Landing = () => {
   // This redirect URL can be easily customized
-  const redirectUrl = "https://afflat3d2.com/trk/lnk/39AB3687-53A7-49BB-BD1E-526A59261A4A/?o=6365&c=918273&a=600801&k=BBE811C74697256B6DDB1CD66F7FD4DA&l=5077&s1=JubaInbox";
+  const redirectUrl = "https://gloffers.org/aff_c?offer_id=2691&aff_id=148474&source=fingoplayful";
 
   const handleCtaClick = () => {
     window.open(redirectUrl, '_blank');
